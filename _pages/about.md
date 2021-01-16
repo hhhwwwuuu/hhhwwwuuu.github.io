@@ -16,8 +16,8 @@ I am currently pursuing the Ph.D. degree of Computer Science and Engineering at 
 ### Education
 * Sep. 2017 - present: Ph.D. in Computer Science @ <a href="http://www.hanyang.ac.kr/web/eng">Hanyang University</a> (Advisor: <a href="https://selab.hanyang.ac.kr/members/">Prof. Scott Uk-Jin Lee</a>)
 * Sep. 2015 - Aug. 2017: M.S. in Computer Science @ <a href="http://www.hanyang.ac.kr/web/eng">Hanyang University</a> (Advisor: <a href="https://selab.hanyang.ac.kr/members/">Prof. Scott Uk-Jin Lee</a>)
-* Feb. 2014 - Jun. 2014: Exchange Student @ <a href="https://english.lhu.edu.tw/">Lunghwa University of Science and Technology</a>
-* Sep. 2011 - Jun. 2015: B.E. in Computer Science @ <a href="http://en.sspu.edu.cn/">Shanghai Polytechnic University</a>
+<!-- * Feb. 2014 - Jun. 2014: Exchange Student @ <a href="https://english.lhu.edu.tw/">Lunghwa University of Science and Technology</a> -->
+<!-- * Sep. 2011 - Jun. 2015: B.E. in Computer Science @ <a href="http://en.sspu.edu.cn/">Shanghai Polytechnic University</a> -->
 
 ### Research Interests
 My research interests spans all aspects of Software Engineering with the objective of improving the security and quality on mobile system. In particular,
