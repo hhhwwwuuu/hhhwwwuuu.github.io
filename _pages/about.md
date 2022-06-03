@@ -2,23 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. @ <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: wzq.jpg
+  # address: >
+  #   <p>Room 621, ERICA Support Center</p>
+  #   <p>Hanyang University ERICA Campus</p>
+  #   <p>Ansan-si, Korea 15588</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Zhiqiang Wu will join [HONOR](https://www.hihonor.com/global/) as application security engineer. Previously, Zhiqiang completed his Ph.D. degree in Computer Science and Engineering at [Software Engineering Laboratory](https://selab.hanyang.ac.kr/), Hanyang University. I enjoy competitive programming as a hobbyist. I participate in online programming competitions whenever I have time including LeetCode and HackerRank.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Education
+* Sep. 2017 - Feb. 2022: Ph.D. in Computer Science @ <a href="http://www.hanyang.ac.kr/web/eng">Hanyang University</a> (Advisor: <a href="https://selab.hanyang.ac.kr/members/">Prof. Scott Uk-Jin Lee</a>)
+* Sep. 2015 - Aug. 2017: M.S. in Computer Science @ <a href="http://www.hanyang.ac.kr/web/eng">Hanyang University</a>
+<!-- * Feb. 2014 - Jun. 2014: Exchange Student @ <a href="https://english.lhu.edu.tw/">Lunghwa University of Science and Technology</a> -->
+<!-- * Sep. 2011 - Jun. 2015: B.E. in Computer Science @ <a href="http://en.sspu.edu.cn/">Shanghai Polytechnic University</a> -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research Interests
+My research interests spans all aspects of Software Engineering with the objective of improving the security and quality on mobile system. In particular,
+* Android Apps Analysis
+* Code Smells
+* Refactoring
+
+For more information about my research, please see [Publications](/publications/). For academic collaboration, please kindly contact me by E-mail.
+
+### Experience
+* Jun. 2014 - Sep. 2014: Intern of Division of Application @ <a href="https://www.chinalife.com.cn/chinalife/index/">China Life Insurance Co. Ltd</a>
+
