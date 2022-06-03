@@ -5,9 +5,12 @@ nav: true
 nav_order: 3
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Services
+      permalink: /services/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Artefacts
+      permalink: /tools/
+    - title: divider
+    - title: CV
+      permalink: /assets/pdf/Zhiqiang_CV.pdf
 ---
