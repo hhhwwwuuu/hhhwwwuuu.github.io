@@ -19,6 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Zhiqiang is an application security engineer at [HONOR](https://www.hihonor.com/global/), China. Previously, Zhiqiang completed his Ph.D. degree in Computer Science and Engineering at [Software Engineering Laboratory](https://selab.hanyang.ac.kr/), Hanyang University. I enjoy competitive programming as a hobbyist. I participate in online programming competitions whenever I have time including LeetCode and HackerRank.
 
+### Experience
+* Sep. 2022 - Present: Application Security Engineer @ <a href="https://www.hihonor.com/global/">HONOR</a>
+* Jun. 2014 - Sep. 2014: Intern of Division of Application @ <a href="https://www.chinalife.com.cn/chinalife/index/">China Life Insurance Co. Ltd</a>
 
 ### Education
 * Sep. 2017 - Feb. 2022: Ph.D. in Computer Science @ <a href="http://www.hanyang.ac.kr/web/eng">Hanyang University</a> (Advisor: <a href="https://selab.hanyang.ac.kr/members/">Prof. Scott Uk-Jin Lee</a>)
@@ -34,7 +37,4 @@ My research interests spans all aspects of Software Engineering with the objecti
 
 For more information about my research, please see [Publications](/publications/). For academic collaboration, please kindly contact me by E-mail.
 
-### Experience
-* Sep. 2022 - Present: Application Security Engineer @ <a href="https://www.hihonor.com/global/">HONOR</a>
-* Jun. 2014 - Sep. 2014: Intern of Division of Application @ <a href="https://www.chinalife.com.cn/chinalife/index/">China Life Insurance Co. Ltd</a>
 
