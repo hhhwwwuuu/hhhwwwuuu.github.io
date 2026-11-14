@@ -32,6 +32,7 @@ Zhiqiang is a senior security engineer at [ByteDance](https://www.bytedance.com/
 
 ### Research Interests
 My research interests spans all aspects of Software Engineering with the objective of improving the security and quality on mobile system. In particular,
+* AI Security
 * Android Apps Analysis
 * Code Clone
 * Refactoring
