@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Zhiqiang is a senior security engineer at [ByteDance](https://www.bytedance.com/en/), Shenzhen, China. Previously, Zhiqiang completed his Ph.D. degree in Computer Science and Engineering at [Software Engineering Laboratory](https://selab.hanyang.ac.kr/), Hanyang University. I enjoy competitive programming as a hobbyist. I participate in online programming competitions whenever I have time including LeetCode and HackerRank.
+I am an AI Security Engineer at ByteDance, based in Shenzhen, China. My work focuses on mobile AI and agent security, with particular interests in on-device security, fraud detection, and the security of AI-powered systems. Before joining ByteDance, I worked at HONOR on mobile security and scam detection.
+
+I received my Ph.D. in Computer Science and Engineering from Hanyang University. My research interests include AI and agent security, mobile application security, Android application analysis, and semantic code similarity.
 
 ### Experience
 * Jan. 2026 - Present: Senior Security Engineer @  [ByteDance](https://www.bytedance.com/en/)
