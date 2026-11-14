@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. @ <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>
+subtitle: AI Security Engineer @ <a href="https://www.bytedance.com/en/">ByteDance</a>
 
 profile:
   align: right
